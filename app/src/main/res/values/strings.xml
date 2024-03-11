@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">my_calm_button</string>
+    <string name="main_question">Какое у тебя настроение сегодня? А в процентах?</string>
+    <string name="generate">Generate</string>
+</resources>
